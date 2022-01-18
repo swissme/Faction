@@ -1,0 +1,5 @@
+name: Nitrogen
+version: 1.0
+main: cc.frozengames.nitrogen.Nitrogen
+depend:
+  - fLib
